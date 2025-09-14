@@ -35,7 +35,13 @@ class WP_Image_Viewer_Plugin {
     }
     
     public function init() {
-        load_plugin_textdomain('wp-image-viewer', false, dirname(plugin_basename(__FILE__)) . '/languages/');
+        $lang_dir = dirname(plugin_basename(__FILE__)) . '/languages/';
+        // Use WP_PLUGIN_DIR instead of plugin_basename if possible to avoid issues with some server configurations
+        if (defined('WP_PLUGIN_DIR') && file_exists(WP_PLUGIN_DIR . '/' . dirname(plugin_basename(__FILE__)) . '/languages/')) {
+            $lang_dir = WP_PLUGIN_DIR . '/' . dirname(plugin_basename(__FILE__)) . '/languages/';
+        }
+        
+        load_plugin_textdomain('wp-image-viewer', false, $lang_dir);
     }
     
     public function enqueue_scripts() {

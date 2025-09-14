@@ -84,8 +84,8 @@
                 
                 if (typeof wp !== 'undefined' && wp.media) {
                     var frame = wp.media({
-                        title: wp.i18n.__('选择图片', 'wp-image-viewer'),
-                        button: { text: wp.i18n.__('选择', 'wp-image-viewer') },
+                        title: wp.i18n.__('Select Image', 'wp-image-viewer'),
+                        button: { text: wp.i18n.__('Select', 'wp-image-viewer') },
                         multiple: false,
                         library: { type: 'image' }
                     });
@@ -460,7 +460,7 @@
             };
             img.onerror = function() {
                 self.loading.hide();
-                alert(wp.i18n.__('图片加载失败', 'wp-image-viewer'));
+                alert(wp.i18n.__('Image loading failed', 'wp-image-viewer'));
             };
             img.src = url;
         },
