@@ -1,0 +1,199 @@
+# Copyright (C) 2025 MightZero
+# This file is distributed under the same license as the WP Image Viewer plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Image Viewer 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-image-viewer\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-09-13T23:37:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wp-image-viewer\n"
+
+#. Plugin Name of the plugin
+msgid "WP Image Viewer"
+msgstr ""
+
+#. Description of the plugin
+msgid "一个支持缩放、拖拽和全屏的WordPress图片查看器控件"
+msgstr ""
+
+#. Author of the plugin
+msgid "MightZero"
+msgstr ""
+
+#: wp-image-viewer.php:149
+msgid "选择图片"
+msgstr ""
+
+#: wp-image-viewer.php:158
+msgid "图片加载中..."
+msgstr ""
+
+#: wp-image-viewer.php:162
+msgid "查看图片"
+msgstr ""
+
+#: wp-image-viewer.php:164
+msgid "暂无图片"
+msgstr ""
+
+#: wp-image-viewer.php:168
+msgid "放大"
+msgstr ""
+
+#: wp-image-viewer.php:176
+msgid "缩小"
+msgstr ""
+
+#: wp-image-viewer.php:184
+msgid "重置"
+msgstr ""
+
+#: wp-image-viewer.php:193
+msgid "全屏"
+msgstr ""
+
+#: wp-image-viewer.php:224
+msgid "WP Image Viewer Settings"
+msgstr ""
+
+#: wp-image-viewer.php:225
+msgid "Image Viewer"
+msgstr ""
+
+#: wp-image-viewer.php:234
+msgid "设置已保存！"
+msgstr ""
+
+#: wp-image-viewer.php:243
+msgid "WP Image Viewer 设置"
+msgstr ""
+
+#: wp-image-viewer.php:247
+msgid "默认宽度"
+msgstr ""
+
+#: wp-image-viewer.php:250
+msgid "默认高度"
+msgstr ""
+
+#: wp-image-viewer.php:253
+msgid "保存设置"
+msgstr ""
+
+#: wp-image-viewer.php:257
+msgid "使用方法"
+msgstr ""
+
+#: wp-image-viewer.php:258
+msgid "使用短代码："
+msgstr ""
+
+#: wp-image-viewer.php:259
+msgid "或使用媒体库："
+msgstr ""
+
+#: wp-image-viewer.php:260
+msgid "可选参数："
+msgstr ""
+
+#: wp-image-viewer.php:262
+msgid "查看器宽度"
+msgstr ""
+
+#: wp-image-viewer.php:263
+msgid "查看器高度"
+msgstr ""
+
+#: wp-image-viewer.php:264
+msgid "最小缩放比例"
+msgstr ""
+
+#: wp-image-viewer.php:265
+msgid "最大缩放比例"
+msgstr ""
+
+#: wp-image-viewer.php:266
+msgid "缩放步长"
+msgstr ""
+
+#: wp-image-viewer.php:267
+msgid "是否显示媒体选择按钮"
+msgstr ""
+
+#: assets/js/wp-image-viewer-block.js:15
+msgid "WP Image Viewer"
+msgstr ""
+
+#: assets/js/wp-image-viewer-block.js:38
+msgid "图片设置"
+msgstr ""
+
+#: assets/js/wp-image-viewer-block.js:47
+msgid "选择图片"
+msgstr ""
+
+#: assets/js/wp-image-viewer-block.js:47
+msgid "更改图片"
+msgstr ""
+
+#: assets/js/wp-image-viewer-block.js:54
+msgid "移除图片"
+msgstr ""
+
+#: assets/js/wp-image-viewer-block.js:58
+msgid "显示设置"
+msgstr ""
+
+#: assets/js/wp-image-viewer-block.js:60
+msgid "宽度"
+msgstr ""
+
+#: assets/js/wp-image-viewer-block.js:67
+msgid "高度"
+msgstr ""
+
+#: assets/js/wp-image-viewer-block.js:76
+msgid "最小缩放比例"
+msgstr ""
+
+#: assets/js/wp-image-viewer-block.js:89
+msgid "最大缩放比例"
+msgstr ""
+
+#: assets/js/wp-image-viewer-block.js:107
+msgid "选择一张图片以显示在图片查看器中"
+msgstr ""
+
+#: assets/js/wp-image-viewer.js:52
+msgid "选择图片"
+msgstr ""
+
+#: assets/js/wp-image-viewer.js:53
+msgid "选择"
+msgstr ""
+
+#: assets/js/wp-image-viewer.js:297
+msgid "图片加载失败"
+msgstr ""
+
+#: includes/media-upload-form.php:23
+msgid "关闭对话框"
+msgstr ""
+
+#: includes/media-upload-form.php:30
+msgid "选择图片"
+msgstr ""
+
+#: includes/media-upload-form.php:41
+msgid "选择图片"
+msgstr ""
+
+#: includes/media-upload-form.php:42
+msgid "选择"
+msgstr ""
