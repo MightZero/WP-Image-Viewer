@@ -3,7 +3,7 @@
  * Plugin Name: WP Image Viewer
  * Plugin URI: https://github.com/MightZero/WP-Image-Viewer
  * Description: A powerful WordPress image viewer plugin with zoom, drag and fullscreen capabilities
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: MightZero
  * License: GPL v2 or later
  * Text Domain: wp-image-viewer
@@ -15,7 +15,7 @@ if (!defined('ABSPATH')) {
 }
 
 // Define plugin constants
-define('WP_IMAGE_VIEWER_VERSION', '1.0.1');
+define('WP_IMAGE_VIEWER_VERSION', '1.0.2');
 define('WP_IMAGE_VIEWER_PLUGIN_URL', plugin_dir_url(__FILE__));
 define('WP_IMAGE_VIEWER_PLUGIN_PATH', plugin_dir_path(__FILE__));
 

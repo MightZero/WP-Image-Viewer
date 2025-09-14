@@ -1,199 +1,197 @@
-# Copyright (C) 2025 MightZero
-# This file is distributed under the same license as the WP Image Viewer plugin.
 msgid ""
 msgstr ""
 "Project-Id-Version: WP Image Viewer 1.0.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-image-viewer\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: \n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-09-14T14:00:00+00:00\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.5.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"PO-Revision-Date: 2025-09-14 14:00+0000\n"
+"X-Generator: Lingma\n"
 "X-Domain: wp-image-viewer\n"
 
 #. Plugin Name of the plugin
 msgid "WP Image Viewer"
-msgstr ""
+msgstr "WP Image Viewer"
 
 #. Description of the plugin
 msgid "A powerful WordPress image viewer plugin with zoom, drag and fullscreen capabilities"
-msgstr ""
+msgstr "A powerful WordPress image viewer plugin with zoom, drag and fullscreen capabilities"
 
 #. Author of the plugin
 msgid "MightZero"
-msgstr ""
+msgstr "MightZero"
 
 #: wp-image-viewer.php:149
 msgid "Select Image"
-msgstr ""
+msgstr "Select Image"
 
 #: wp-image-viewer.php:158
 msgid "Loading image..."
-msgstr ""
+msgstr "Loading image..."
 
 #: wp-image-viewer.php:162
 msgid "View Image"
-msgstr ""
+msgstr "View Image"
 
 #: wp-image-viewer.php:164
 msgid "No image"
-msgstr ""
+msgstr "No image"
 
 #: wp-image-viewer.php:168
 msgid "Zoom In"
-msgstr ""
+msgstr "Zoom In"
 
 #: wp-image-viewer.php:176
 msgid "Zoom Out"
-msgstr ""
+msgstr "Zoom Out"
 
 #: wp-image-viewer.php:184
 msgid "Reset"
-msgstr ""
+msgstr "Reset"
 
 #: wp-image-viewer.php:193
 msgid "Fullscreen"
-msgstr ""
+msgstr "Fullscreen"
 
 #: wp-image-viewer.php:224
 msgid "WP Image Viewer Settings"
-msgstr ""
+msgstr "WP Image Viewer Settings"
 
 #: wp-image-viewer.php:225
 msgid "Image Viewer"
-msgstr ""
+msgstr "Image Viewer"
 
 #: wp-image-viewer.php:234
 msgid "Settings saved!"
-msgstr ""
+msgstr "Settings saved!"
 
 #: wp-image-viewer.php:243
 msgid "WP Image Viewer Settings"
-msgstr ""
+msgstr "WP Image Viewer Settings"
 
 #: wp-image-viewer.php:247
 msgid "Default Width"
-msgstr ""
+msgstr "Default Width"
 
 #: wp-image-viewer.php:250
 msgid "Default Height"
-msgstr ""
+msgstr "Default Height"
 
 #: wp-image-viewer.php:253
 msgid "Save Settings"
-msgstr ""
+msgstr "Save Settings"
 
 #: wp-image-viewer.php:257
 msgid "Usage"
-msgstr ""
+msgstr "Usage"
 
 #: wp-image-viewer.php:258
 msgid "Use shortcode:"
-msgstr ""
+msgstr "Use shortcode:"
 
 #: wp-image-viewer.php:259
 msgid "Or use media library:"
-msgstr ""
+msgstr "Or use media library:"
 
 #: wp-image-viewer.php:260
 msgid "Optional parameters:"
-msgstr ""
+msgstr "Optional parameters:"
 
 #: wp-image-viewer.php:262
 msgid "Viewer width"
-msgstr ""
+msgstr "Viewer width"
 
 #: wp-image-viewer.php:263
 msgid "Viewer height"
-msgstr ""
+msgstr "Viewer height"
 
 #: wp-image-viewer.php:264
 msgid "Minimum zoom level"
-msgstr ""
+msgstr "Minimum zoom level"
 
 #: wp-image-viewer.php:265
 msgid "Maximum zoom level"
-msgstr ""
+msgstr "Maximum zoom level"
 
 #: wp-image-viewer.php:266
 msgid "Zoom step"
-msgstr ""
+msgstr "Zoom step"
 
 #: wp-image-viewer.php:267
 msgid "Show media selection button"
-msgstr ""
+msgstr "Show media selection button"
 
 #: assets/js/wp-image-viewer-block.js:15
 msgid "WP Image Viewer"
-msgstr ""
+msgstr "WP Image Viewer"
 
 #: assets/js/wp-image-viewer-block.js:38
 msgid "Image Settings"
-msgstr ""
+msgstr "Image Settings"
 
 #: assets/js/wp-image-viewer-block.js:47
 msgid "Select Image"
-msgstr ""
+msgstr "Select Image"
 
 #: assets/js/wp-image-viewer-block.js:47
 msgid "Change Image"
-msgstr ""
+msgstr "Change Image"
 
 #: assets/js/wp-image-viewer-block.js:54
 msgid "Remove Image"
-msgstr ""
+msgstr "Remove Image"
 
 #: assets/js/wp-image-viewer-block.js:58
 msgid "Display Settings"
-msgstr ""
+msgstr "Display Settings"
 
 #: assets/js/wp-image-viewer-block.js:60
 msgid "Width"
-msgstr ""
+msgstr "Width"
 
 #: assets/js/wp-image-viewer-block.js:67
 msgid "Height"
-msgstr ""
+msgstr "Height"
 
 #: assets/js/wp-image-viewer-block.js:76
 msgid "Minimum Zoom Level"
-msgstr ""
+msgstr "Minimum Zoom Level"
 
 #: assets/js/wp-image-viewer-block.js:89
 msgid "Maximum Zoom Level"
-msgstr ""
+msgstr "Maximum Zoom Level"
 
 #: assets/js/wp-image-viewer-block.js:107
 msgid "Select an image to display in the image viewer"
-msgstr ""
+msgstr "Select an image to display in the image viewer"
 
 #: assets/js/wp-image-viewer.js:52
 msgid "Select Image"
-msgstr ""
+msgstr "Select Image"
 
 #: assets/js/wp-image-viewer.js:53
 msgid "Select"
-msgstr ""
+msgstr "Select"
 
 #: assets/js/wp-image-viewer.js:297
 msgid "Image loading failed"
-msgstr ""
+msgstr "Image loading failed"
 
 #: includes/media-upload-form.php:23
 msgid "Close dialog"
-msgstr ""
+msgstr "Close dialog"
 
 #: includes/media-upload-form.php:30
 msgid "Select Image"
-msgstr ""
+msgstr "Select Image"
 
 #: includes/media-upload-form.php:41
 msgid "Select Image"
-msgstr ""
+msgstr "Select Image"
 
 #: includes/media-upload-form.php:42
 msgid "Select"
-msgstr ""
+msgstr "Select"

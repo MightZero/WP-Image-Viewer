@@ -33,6 +33,11 @@ In the editor, click the add media button to select an image from the media libr
 
 ## Changelog
 
+### 1.0.2
+* Improved multilingual support
+* Added GPL license file
+* Various bug fixes and improvements
+
 ### 1.0.1
 * Added configurable options
 * Optimized zoom experience
@@ -43,4 +48,13 @@ In the editor, click the add media button to select an image from the media libr
 
 ## Translations
 
-This plugin comes with .pot file in the languages folder, allowing you to translate it into your language. Please refer to the WordPress documentation for translating plugins.
+This plugin comes with multilingual support for both English and Chinese (Simplified).
+
+* English (en_US) - Default language
+* Chinese (zh_CN) - 简体中文
+
+The plugin includes .pot file in the languages folder, allowing you to translate it into other languages. Please refer to the WordPress documentation for translating plugins.
+
+## License
+
+This plugin is licensed under the [GNU General Public License v2.0 or later](LICENSE).
